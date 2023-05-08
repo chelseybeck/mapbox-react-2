@@ -2,7 +2,7 @@
     "name": "mapbox-react-2",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://chelseybeck.github.io/mapbox-react-2/public",
+    "homepage": "https://chelseybeck.github.io/mapbox-react-2",
     "dependencies": {
         "gh-pages": "^5.0.0",
         "mapbox-gl": "^1.12.0",

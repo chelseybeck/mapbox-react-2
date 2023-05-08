@@ -35,9 +35,6 @@ export default function App() {
   // Render the map
   return (
     <div>
-      <div>
-      <h1>React hosted on GitHub pages</h1>
-      </div>
       <div className="sidebar">
         Longitude: {lng} | Latitude: {lat} | Zoom: {zoom}
       </div>
