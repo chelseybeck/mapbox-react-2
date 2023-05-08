@@ -21,9 +21,9 @@ jobs:
       with:
         node-version: 18.12.1
   
-    - name: Setup environment
-      run: |
-        echo REACT_APP_PRIVATE_MAPBOX_ACCESS_TOKEN=${{ secrets.PRIVATE_MAPBOX_ACCESS_TOKEN }} > .env
+    # - name: Setup environment
+    #   run: |
+    #     echo REACT_APP_PRIVATE_MAPBOX_ACCESS_TOKEN=${{ secrets.PRIVATE_MAPBOX_ACCESS_TOKEN }} > .env
 
     - name: Install Packages
       run: npm install

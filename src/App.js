@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from 'react';
 
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 
-mapboxgl.accessToken = process.env.REACT_APP_PRIVATE_MAPBOX_ACCESS_TOKEN;
+mapboxgl.accessToken = 'pk.eyJ1IjoiY2pzYmVjayIsImEiOiJjbGd0eGR1eHAwdjVoM25xaXVqOXRiOWFiIn0.5z1kRRFvxlltQ5M-Dy94JA';
 
 export default function App() {
     // Set app default state
