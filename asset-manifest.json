@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mapbox-react-2/public/static/css/main.3cf1cf97.chunk.css",
-    "main.js": "/mapbox-react-2/public/static/js/main.6b7140d1.chunk.js",
-    "main.js.map": "/mapbox-react-2/public/static/js/main.6b7140d1.chunk.js.map",
-    "runtime-main.js": "/mapbox-react-2/public/static/js/runtime-main.c4403698.js",
-    "runtime-main.js.map": "/mapbox-react-2/public/static/js/runtime-main.c4403698.js.map",
-    "static/css/2.579d90ea.chunk.css": "/mapbox-react-2/public/static/css/2.579d90ea.chunk.css",
-    "static/js/2.4f8b52a8.chunk.js": "/mapbox-react-2/public/static/js/2.4f8b52a8.chunk.js",
-    "static/js/2.4f8b52a8.chunk.js.map": "/mapbox-react-2/public/static/js/2.4f8b52a8.chunk.js.map",
-    "index.html": "/mapbox-react-2/public/index.html",
-    "static/css/2.579d90ea.chunk.css.map": "/mapbox-react-2/public/static/css/2.579d90ea.chunk.css.map",
-    "static/css/main.3cf1cf97.chunk.css.map": "/mapbox-react-2/public/static/css/main.3cf1cf97.chunk.css.map",
-    "static/js/2.4f8b52a8.chunk.js.LICENSE.txt": "/mapbox-react-2/public/static/js/2.4f8b52a8.chunk.js.LICENSE.txt"
+    "main.css": "/mapbox-react-2/static/css/main.3cf1cf97.chunk.css",
+    "main.js": "/mapbox-react-2/static/js/main.6b7140d1.chunk.js",
+    "main.js.map": "/mapbox-react-2/static/js/main.6b7140d1.chunk.js.map",
+    "runtime-main.js": "/mapbox-react-2/static/js/runtime-main.3651fa4e.js",
+    "runtime-main.js.map": "/mapbox-react-2/static/js/runtime-main.3651fa4e.js.map",
+    "static/css/2.579d90ea.chunk.css": "/mapbox-react-2/static/css/2.579d90ea.chunk.css",
+    "static/js/2.4f8b52a8.chunk.js": "/mapbox-react-2/static/js/2.4f8b52a8.chunk.js",
+    "static/js/2.4f8b52a8.chunk.js.map": "/mapbox-react-2/static/js/2.4f8b52a8.chunk.js.map",
+    "index.html": "/mapbox-react-2/index.html",
+    "static/css/2.579d90ea.chunk.css.map": "/mapbox-react-2/static/css/2.579d90ea.chunk.css.map",
+    "static/css/main.3cf1cf97.chunk.css.map": "/mapbox-react-2/static/css/main.3cf1cf97.chunk.css.map",
+    "static/js/2.4f8b52a8.chunk.js.LICENSE.txt": "/mapbox-react-2/static/js/2.4f8b52a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4403698.js",
+    "static/js/runtime-main.3651fa4e.js",
     "static/css/2.579d90ea.chunk.css",
     "static/js/2.4f8b52a8.chunk.js",
     "static/css/main.3cf1cf97.chunk.css",
