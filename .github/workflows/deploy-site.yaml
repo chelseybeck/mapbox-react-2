@@ -28,7 +28,7 @@ jobs:
     - name: Install Packages
       run: |
         npm ci
-        npm run build
+        npm run deploy
 
     # - name: fix ssl
     #   run: export NODE_OPTIONS=--openssl-legacy-provider
