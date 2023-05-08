@@ -20,6 +20,9 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 18.12.1
+
+    - name: fix ssl
+      run: export NODE_OPTIONS=--openssl-legacy-provider
   
     - name: Setup environment
       run: |
