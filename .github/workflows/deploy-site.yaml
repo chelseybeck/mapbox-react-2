@@ -9,9 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # strategy:
-    #   matrix:
-    #     node-version: [10.x, 12.x, 14.x]
     steps:
     - name: Checkout Repo Code
       uses: actions/checkout@v2
@@ -24,7 +21,7 @@ jobs:
       with:
         node-version: 18.12.1
   
-  - name: Setup environment
+    - name: Setup environment
       run: |
         echo REACT_APP_PRIVATE_MAPBOX_ACCESS_TOKEN=${{ secrets.PRIVATE_MAPBOX_ACCESS_TOKEN }} > .env
 
