@@ -28,8 +28,8 @@ jobs:
     - name: Install Packages
       run: npm install
 
-    - name: fix ssl
-      run: export NODE_OPTIONS=--openssl-legacy-provider
+    # - name: fix ssl
+    #   run: export NODE_OPTIONS=--openssl-legacy-provider
 
-    - name: Build project
-      run: npm run build
+    # - name: Build project
+    #   run: npm run build
